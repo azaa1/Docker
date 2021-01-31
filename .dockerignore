@@ -1,0 +1,18 @@
+# ignore files
+
+.git*
+git*
+
+# ignore config files
+
+.config
+.config*
+*config
+
+# ignore Dockerfile
+
+Dockerfile*
+*Dockerfile
+
+# ignore secret files
+./public-html/secrets*
